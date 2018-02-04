@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="true">
+    <appender name="SLACK" class="com.seoduct.logging.SlackAppender">
+        <webhookUri>https://fakeurl.com</webhookUri>
+        <channel>#channel</channel>
+        <username>username</username>
+        <iconEmoji>:emoji:</iconEmoji>
+    </appender>
+
+    <root level="ALL">
+        <appender-ref ref="SLACK"/>
+    </root>
+
+</configuration>
