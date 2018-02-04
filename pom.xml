@@ -6,7 +6,7 @@
 
     <groupId>com.seoduct</groupId>
     <artifactId>logback-slack-appender</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>logback-slack-appender</name>
