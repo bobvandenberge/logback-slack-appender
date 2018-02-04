@@ -1,3 +1,6 @@
+
+[![CircleCI](https://circleci.com/gh/bobvandenberge/logback-slack-appender.svg?style=svg)](https://circleci.com/gh/bobvandenberge/logback-slack-appender)
+
 # Logback Slack Appender
 This is a Slack appender for [Logback](http://logback.qos.ch/), inspired on code of [logback-slack-appender](https://github.com/maricn/logback-slack-appender)
 
